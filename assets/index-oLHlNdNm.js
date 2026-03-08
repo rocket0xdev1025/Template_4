@@ -17474,7 +17474,7 @@ const uS = "/assets/marble-bg-D3X3vxXr.jpg",
                 ],
               }),
               S.jsx("a", {
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xd5ee007fdb1b93ed17810843e21ce7bd6ac694c5",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -17547,7 +17547,7 @@ const uS = "/assets/marble-bg-D3X3vxXr.jpg",
           className: "flex flex-wrap items-center justify-center gap-4 mb-10",
           children: [
             S.jsxs("a", {
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xd5ee007fdb1b93ed17810843e21ce7bd6ac694c5",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
@@ -17676,7 +17676,7 @@ const uS = "/assets/marble-bg-D3X3vxXr.jpg",
           className:
             "w-full max-w-5xl card-glass rounded-2xl overflow-hidden border-glow mb-12",
           children: S.jsx("iframe", {
-            src: "https://dexscreener.com/ethereum/0xcomingsoon?embed=1&theme=dark&trades=0&info=0",
+            src: "https://dexscreener.com/ethereum/0xd5ee007fdb1b93ed17810843e21ce7bd6ac694c5?embed=1&theme=dark&trades=0&info=0",
             className: "w-full h-[400px] md:h-[500px]",
             title: "DEX Screener Chart",
           }),
@@ -17710,7 +17710,7 @@ const uS = "/assets/marble-bg-D3X3vxXr.jpg",
           className: "flex flex-wrap items-center justify-center gap-4",
           children: [
             S.jsxs("a", {
-              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+              href: "https://dexscreener.com/ethereum/0xd5ee007fdb1b93ed17810843e21ce7bd6ac694c5",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
@@ -17718,7 +17718,7 @@ const uS = "/assets/marble-bg-D3X3vxXr.jpg",
               children: [S.jsx(X0, { className: "w-5 h-5" }), "DEXSCREENER"],
             }),
             S.jsxs("a", {
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xd5ee007fdb1b93ed17810843e21ce7bd6ac694c5",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
