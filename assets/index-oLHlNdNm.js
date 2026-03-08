@@ -17654,7 +17654,7 @@ const uS = "/assets/marble-bg-D3X3vxXr.jpg",
             ],
           }),
         }),
-      ],
+      ], 
     }),
   hS = [
     { label: "TICKER", value: "$NANA" },
